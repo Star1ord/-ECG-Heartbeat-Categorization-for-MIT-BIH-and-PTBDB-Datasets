@@ -37,7 +37,7 @@ The **MIT-BIH Arrhythmia Dataset** is a valuable collection of ECG recordings, p
 
 ### Credit
 
-- The dataset used in this example is sourced from [Kaggle](https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
+- The dataset used in this example is sourced from [Kaggle](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) by [basharalkuwaiti](https://www.kaggle.com/code/basharalkuwaiti/ecg-heartbeat-categorization-baseline). We thank them for providing this valuable dataset and base for further development of the project.
 
 Feel free to contribute, provide feedback, or extend this example for other classification use cases!
 
